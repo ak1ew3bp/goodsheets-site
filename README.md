@@ -1,31 +1,22 @@
-Website Project for Technoprenuership # 📄 GoodSheet Website
+# 📄 GoodSheet Website
 
-GoodSheet is a web-based platform created for our Technopreneurship project.  
-It serves as the official companion site for the **GoodSheet: The Eco Vendo Machine – Recycle, Trade, and Dispense Bond Paper**.  
-
-The website aims to raise awareness about recycling, provide information about the machine, and offer a platform where users can track activities, learn more about sustainability, and engage with the project.
+GoodSheet is a **frontend-only website** created as part of our **Technopreneurship project**.  
+It serves as the official website for **GoodSheet: The Eco Vendo Machine – Recycle, Trade, and Dispense Bond Paper**, showcasing the project’s purpose, machine, and team.  
 
 ---
 
 ## 🚀 Features
 
-- 📌 **Project Overview** – Introduction and background of GoodSheet.  
-- 🖼️ **Machine Showcase** – Images and description of the Eco Vendo Machine.  
-- 👥 **Team Section** – Meet the creators behind the project.  
-- 📢 **Announcements/Updates** – News and updates about the project.  
-- 📂 **Downloadable Resources** – Access brochures, presentations, or reports.  
-- 📬 **Contact Form** – Users can send inquiries or feedback.  
+- 📌 **Home Page** – Quick overview of the project.  
+- 🖼️ **Machine Showcase** – Images and description of the GoodSheet Eco Vendo Machine.  
+- 👥 **Team Section** – Introduction of the project members.  
+- 📢 **Announcements/Updates** – Latest news about the project.  
+- 📬 **Contact Section** – For inquiries and feedback (static, no backend).  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript (React / TailwindCSS if applicable)  
-- **Backend:** Node.js / PHP (depending on your setup)  
-- **Database:** MySQL (via XAMPP if locally hosted)  
-- **Hosting:** GitHub Pages / Localhost / Other  
-
----
-
-## 📂 Project Structure
-
+- HTML5 – Structure  
+- CSS3 / TailwindCSS – Styling  
+-  Bootstrap
