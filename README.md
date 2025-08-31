@@ -20,3 +20,43 @@ It serves as the official website for **GoodSheet: The Eco Vendo Machine – Rec
 - HTML5 – Structure  
 - CSS3 / TailwindCSS – Styling  
 -  Bootstrap
+
+goodSheet-website/
+│── assets/ # Images (logo, machine pictures, etc.)
+│── css/ # Stylesheets
+│── js/ # Scripts
+│── index.html # Homepage
+│── about.html # About page
+│── contact.html # Contact page
+│── README.md # Project documentation
+
+
+---
+
+## ⚡ Installation & Setup
+
+1. Clone or download the repository:  
+   ```sh
+   git clone https://github.com/<your-username>/goodSheet-website.git
+
+
+Open the project folder.
+
+Launch the site by opening index.html in your browser.
+(No server or backend setup required.)
+
+🎯 Purpose
+
+This website is part of our Technopreneurship course project.
+It complements the GoodSheet Eco Vendo Machine by:
+
+Providing background information.
+
+Showcasing the machine design and concept.
+
+Raising awareness about recycling and sustainability.
+
+📜 License
+
+This project is for academic purposes only.
+All rights reserved © 2025 GoodSheet Team.
